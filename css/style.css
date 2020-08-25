@@ -1,0 +1,123 @@
+body{
+	background: url(../img/whitemainfone.png);
+	margin: 0px;
+}
+
+.img{
+	margin-top: 0px;
+	height: 100px;
+	float: right;
+}
+
+.header{
+	background: #2f4b87;
+	min-height: 100px;
+	margin-bottom: 10px;
+}
+
+.signup{
+	padding-top: 40px;
+	margin-right: 20px;
+	float: right;
+}
+
+.none{
+	text-decoration: none;
+	color: white;
+}
+
+.sign{
+	color: white;
+	text-decoration: none;	
+}
+
+.reg{
+	color: white;
+	text-decoration: none;
+}
+
+.content{
+	background: #2f4b87;
+	min-height: 200px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	border-radius: 20px;
+}
+
+.textcontent{
+	font-size: 30px;
+	padding: 10px;
+}
+
+.content2{
+	background: #2f4b87;
+	min-height: 250px;
+	margin-bottom: 10px;
+	margin-right: ;
+}
+
+.footer{
+	margin: 0px;
+	background: #2f4b87;
+	min-height: 200px;
+}
+
+.menu ul li{
+  padding: 10px;
+}
+
+.menu ul > li:hover{
+  background-color: #5086eb;
+}
+
+.menu ul ul > li:hover{
+  background-color: #69e;
+}
+
+.menu ul li, .menu ul{
+  display: inline-block;
+}
+
+.menu ul{
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-color: #0059ff;
+}
+
+.menu ul ul{
+  display: none;
+  position: absolute;
+  background-color: #369;
+  margin-top: 10px;
+  margin-left: -10px;
+  min-width: 56px;
+}
+
+.menu ul a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu ul ul a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu li:hover ul{
+  display: block;
+}
+
+.menu li:hover li{
+  display: block;
+}
+
+.hm{
+	max-width: auto;
+}
+
+.menu{
+	padding-top: 20;
+	margin-left: 0;
+}
